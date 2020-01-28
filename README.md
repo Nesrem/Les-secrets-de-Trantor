@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8" />
-        <title>Les secrets de Trantor</title>
-    </head>
+ # Les secrets de Trantor
+ 
 
-    <body>
-    	<p>Bonjour et bienvenue sur mon site !</p>
-    </body>
-</html>
