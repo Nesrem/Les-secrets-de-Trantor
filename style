@@ -1,4 +1,8 @@
-p
+. entete
 {
-	color: blue;
+	font-size: large;
+}
+#conteneur
+{
+    display: flex;
 }
