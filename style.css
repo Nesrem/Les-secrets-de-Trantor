@@ -1,8 +1,10 @@
 . entete
 {
 	font-size: large;
+	color: blue;
 }
 #conteneur
 {
     display: flex;
+    color: blue;
 }
