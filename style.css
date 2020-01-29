@@ -9,9 +9,7 @@
 }
 #texte
 {
-	max-width: 1000px;
     margin-right: auto;
     margin-left: auto;
-    padding: 5px 0 30px 0;
-    text-align: start;
+    text-align: center;
 }
