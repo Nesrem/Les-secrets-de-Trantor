@@ -1,9 +1,17 @@
 .entete
 {
-	font-size: larger;
+	font-size: x-large;
 
 }
 #listing
 {
     display: flex;
+}
+.texte
+{
+	max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px 0 30px 0;
+    text-align: start;
 }
