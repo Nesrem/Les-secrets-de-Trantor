@@ -1,0 +1,56 @@
+html, body{ 
+    margin:0; 
+	padding:0; 
+}
+header {
+	background-color:#f6e0b5;; /*Couleur de fond*/
+    display:flex;
+    height: 268px;
+}
+.textes{
+    margin-left: 0em;
+    font-size : 20px;
+    margin-right: auto;
+    width : 1000px;
+}
+.sous-header{
+    display: flex;
+    margin : 20px;
+}
+.image-presentation{
+    text-align: center;
+    margin-left: 12em;
+    margin-right: auto;
+    margin-top: 12em;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin :auto;
+    height: 90px;
+    width : 280px;
+    background-color: #BD7D81;
+    border-radius: 20px;
+    color: #1b1302;
+    font-size : 17px;
+    font-weight : bold;
+}
+.right-header{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 5em;
+    font-weight: bold;
+}
+stan{
+    font-size: 15px;
+    margin: 0
+}
+ul li {
+    background-size: 20px;
+    background-image: url("../images/icone_livre_blanc_1.png");
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+    padding-left: 25px;
+    margin-left: 0px;
+}
